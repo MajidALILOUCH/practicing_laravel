@@ -1,0 +1,12 @@
+# Ignore ALL node_modules in subfolders
+**/node_modules/
+
+# Ignore common build and environment files
+**/dist/
+**/.env
+**/.DS_Store
+**/Thumbs.db
+
+# Ignore editor folders
+.vscode/
+.idea/
